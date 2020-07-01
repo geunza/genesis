@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "sohoGothic";
+    src: url("../fonts/sohoGothic.eot"); /* IE9 Compat Modes */
+    src: url("../fonts/sohoGothic.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("../fonts/sohoGothic.woff") format("woff"), /* Modern Browsers */
+      url("../fonts/sohoGothic.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
